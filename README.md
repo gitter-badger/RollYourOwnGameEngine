@@ -1,5 +1,7 @@
 # Ruge aka Roll Your Own Game Engine
 
+[![Join the chat at https://gitter.im/MetaSmug/RollYourOwnGameEngine](https://badges.gitter.im/MetaSmug/RollYourOwnGameEngine.svg)](https://gitter.im/MetaSmug/RollYourOwnGameEngine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An open source project for creating your own cross-platform game engines with MonoGame Framework.  Instead of starting completely from scratch, this project will provide you with sample engines, code snippets, demo games, and tutorials to get you up and running a lot faster.  All code may be used commercially without licensing fees, so it's perfect for indie developers. 
 
 #Name
