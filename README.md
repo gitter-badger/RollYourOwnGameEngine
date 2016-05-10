@@ -1,9 +1,9 @@
 # Ruge aka Roll Your Own Game Engine
 
-An open source project for creating your own cross-platform game engines with MonoGame Framework.  Instead of starting completely from scratch, this project will provide you with sample engines, code snippets, demo games, and tutorials to get you up and running a lot faster.  All code may be used commercially without licensing fees, so it's perfect for indie companies. 
+An open source project for creating your own cross-platform game engines with MonoGame Framework.  Instead of starting completely from scratch, this project will provide you with sample engines, code snippets, demo games, and tutorials to get you up and running a lot faster.  All code may be used commercially without licensing fees, so it's perfect for indie developers. 
 
 #Name
-The acronym RYOGE doesn't really roll off the tongue and is too hard to remember.  So I'm calling nicknaming the project Ruge, pronounced like "rouge" or "rogue" (your preference).
+The acronym RYOGE doesn't really roll off the tongue and is too hard to remember.  So we nicknamed the project Ruge, pronounced like "rouge" or "rogue" (your preference).
 
 #Why roll your own engine for your games?
 
