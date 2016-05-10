@@ -11,6 +11,8 @@ The acronym RYOGE doesn't really roll off the tongue and is too hard to remember
 * innovate with your own unique gameplay ideas
 * streamline your workflow to maximize creativity by catering to the way you want to work for your specific type of game 
 * better branding for your indie gaming company; use your own name and logos
+* makes you a better developer
+* satisfies your inner control freak
 * bragging rights ;)
 
 #Project Milestones
