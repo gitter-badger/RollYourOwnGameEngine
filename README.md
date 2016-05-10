@@ -14,3 +14,4 @@ Why roll your own engine for your games?
 
 * Sample game engines with demo games.  Initially the focus will be on a playing/trading card engine and a 2.5d RPG engine.
 * Code repository with lots of example code you can copy and paste into your project to add specific features to your game
+* Initially we will focus on desktop platforms (Windows/Linux/Mac) until the project is sufficiently established.  Mobile and Console will come later when Desktop is stable/mature
